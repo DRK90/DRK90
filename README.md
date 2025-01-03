@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Kennedy
 - 👀 I’m currently a full stack software engineer. I have interestes in a broad range of topics from full stack web design to Machine Learning.
-- 🌱 I’m currently expanding my knowledge in my MS CS program: Web Security including CI/CD pipelines through AWS, public key encryption, XSS, injection attacks.
-- 💞️ I’m looking to collaborate on open source projects related to OS security
+- 🌱 I'm working on health tech apps, and iOS applications. I keep this work in private repos but I am happy to collaborate if you reach out.
+
 - 📫 How to reach me: kennedy.d0@gmail.com
 
 <!---
